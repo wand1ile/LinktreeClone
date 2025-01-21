@@ -9,19 +9,17 @@ h1, h2, h3, .poppins{
     font-family: 'Poppins', sans-serif;
 }
 
-body{
-
+body {
     color: white;
     position: relative;
     display: flex;
     gap: 42px;
-    padding: 40px 14px; /*vertical and horizontal*/
+    padding: 0 14px; /* Remove top and bottom padding */
     min-height: 100vh;
     overflow-y: scroll;
     justify-content: center;
     align-items: center;
-    /*in short: overflow-y: scroll; just means "if there's too much stuff going vertically (up and down)
-     inside this box, show a scrollbar so you can see everything." */
+    background-color: transparent; /* Ensures no background color is set by body */
 }
 
 .backgroundImg{
@@ -84,6 +82,7 @@ main{
     align-items: center;
     justify-content: space-between;
     padding: 8px 14px;
+    margin: 0 16px;
     border: 1px solid #334155;
     border-radius: 8px;
     width: 420px;
@@ -115,7 +114,7 @@ main{
 @media (min-width: 640px){
     body{
         gap: 64px;
-        padding: 80px 14px;
+        padding: 0 14px;
     }
 
     header{
@@ -142,6 +141,7 @@ main{
     }
 
     .link p{
+        margin: 0 13px;
         font-size: 1.1em;
     }
 
