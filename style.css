@@ -20,16 +20,24 @@ body {
     justify-content: center;
     align-items: center;
     background-color: transparent; /* Ensures no background color is set by body */
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+    /* Left and right safe area insets can also be added if necessary */
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
 }
 
 .backgroundImg{
     position: fixed;
-    top: 0; /*fills screen completely*/
+    top: 0; 
     left: 0;
     width: 100vw;
     height: 100vh;
     z-index: -2; /*Layers the content in and out of the page*/
+    padding-top: env(safe-area-inset-top); /* Add padding for the top notch */
+    padding-bottom: env(safe-area-inset-bottom); /* Add padding for the bottom area */
 }
+
 
 .backgroundImg img{
     width: 100%;
