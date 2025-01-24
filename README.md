@@ -22,7 +22,7 @@ This project enables users to easily access important social media accounts thro
 - **Google Fonts**: Utilizes *Open Sans* and *Poppins* fonts for modern typography.
 - **Responsive Web Design**: The layout adjusts seamlessly from mobile to desktop views for an optimized user experience.
 
-![Screenshots](./desktopss.jpg)
+![Screenshots](./desktopss.png)
 
 ## It is also responsive:
 ![Screenshots](./linktree.jpg)
