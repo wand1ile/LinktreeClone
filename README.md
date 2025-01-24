@@ -21,3 +21,5 @@ This project enables users to easily access important social media accounts thro
 - **FontAwesome**: Integrated to display icons for various social media platforms.
 - **Google Fonts**: Utilizes *Open Sans* and *Poppins* fonts for modern typography.
 - **Responsive Web Design**: The layout adjusts seamlessly from mobile to desktop views for an optimized user experience.
+
+![Screenshots](./linktree.jpg)
