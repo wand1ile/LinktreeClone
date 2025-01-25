@@ -1,6 +1,6 @@
 ## Welcome to Linktree.Mercedes
 
-**Linktree.Mercedes** is a personal link site for **Wandile 'Mercedes' Tshabalala**, designed to provide easy access to social media profiles and platforms. Explore and connect with my Instagram, TikTok, Spotify, and LinkedIn through a minimalistic and responsive interface.
+**Linktree.Mercedes** is my personal link site, designed to provide easy access to social media profiles and platforms. Explore and connect with my Instagram, TikTok, Spotify, and LinkedIn through a minimalistic and responsive interface.
 
 ---
 
